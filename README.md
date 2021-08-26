@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ntztuangporn
+- 👋 Hi, I’m Netizen Jean O/
 - 👀 I’m interested in SAP ByDesign, API, OData & etc...
 - 🌱 I’m currently learning SAP ByDesign, API, OData
 - 💞️ I’m looking to collaborate on any features w/ SAP ByDesign
